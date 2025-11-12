@@ -1,2 +1,6 @@
 AttendanceTracker
 =================
+
+foo
+
+bar
